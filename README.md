@@ -30,3 +30,5 @@
 <br>
 Or check out some of my projects below,
 - <a href="https://github.com/ctvidic/Streve">Streve</a>, an full-stack clone of the popular fitness application Strava :running:
+- <a href="https://github.com/ctvidic/AvySim">AvySim</a>, a Javascript/HTML Canvas based avalanche visualization tool :snowboarder:
+
