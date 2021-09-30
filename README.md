@@ -1,5 +1,6 @@
 ### Hi there 👋, I'm Chris,
- I'm a Mechanical Engineer :nut_and_bolt: turned Software Engineer 💻. I'm expierienced in, <br>
+ I'm a Mechanical Engineer :nut_and_bolt: turned Software Engineer 💻. I'm experienced
+ in, <br> <br>
  <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
  <img src="https://img.shields.io/badge/Ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=white" />
  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
@@ -24,7 +25,7 @@
  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
 
 
-
+<br>
 - You can reach out to me at, <br>
 <a href="https://www.linkedin.com/in/christopher-vidic/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
