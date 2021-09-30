@@ -25,7 +25,7 @@
  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
 <br>
 <br>
-Before I worked as a mechanical engineer at an ex-manhattan project site, a researcher at an island volcanology station, a field engineer at a chemical weapons destruction facility, an attendant at a Spanish surf hotel, and now as a software developer
+<!-- Before I worked as a mechanical engineer at an ex-manhattan project site, a researcher at an island volcanology station, a field engineer at a chemical weapons destruction facility, an attendant at a Spanish surf hotel, and now as a software developer -->
 <br>
 <br>
 Lets connect! <br>
