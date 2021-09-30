@@ -23,8 +23,8 @@
  <img src="https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-
-
+<br>
+Before I worked as a mechanical engineer at an ex-manhattan project site, a researcher at a island volanology station, an engineer at a chemical weapons destruction facility, an attendant at a Spanish surf hotel, and now as a software developer
 <br>
 - You can reach out to me at, <br>
 <a href="https://www.linkedin.com/in/christopher-vidic/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
