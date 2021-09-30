@@ -1,5 +1,7 @@
-### Hi there 👋, my names is Chris
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+### Hi there 👋, my name's is Chris
+
+
+<a href="https://www.linkedin.com/in/christopher-vidic/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
