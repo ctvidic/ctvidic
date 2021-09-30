@@ -1,5 +1,4 @@
 ### Hi there 👋, my names is Chris
-![image]({})
 <img src="{https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white}" />
 
 - 🔭 I’m currently working on ...
