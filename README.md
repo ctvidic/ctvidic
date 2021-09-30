@@ -1,6 +1,6 @@
-### Hi there 👋, my name's is Chris,
+### Hi there 👋, my name is Chris,
 
-- You can reach out to me at,
+- You can reach out to me at, <br>
 <a href="https://www.linkedin.com/in/christopher-vidic/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
 - 🔭 I’m currently working on ...
