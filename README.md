@@ -1,5 +1,6 @@
 ### Hi there 👋, I'm Chris,
- I'm a Mechanical Engineer :nut_and_bolt: turned Software Engineer 💻. I'm experienced
+ I'm a Mechanical Engineer :nut_and_bolt: turned Software Engineer 💻. <br>
+ I'm experienced
  in, <br> <br>
  <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
  <img src="https://img.shields.io/badge/Ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=white" />
