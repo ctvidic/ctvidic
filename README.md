@@ -1,4 +1,4 @@
-### Hi there 👋, I'm Chris,
+<!-- ### Hi there 👋, I'm Chris,
  I'm a Mechanical Engineer :nut_and_bolt: turned Software Engineer 💻. <br>
  Experienced working
  in, <br> <br>
